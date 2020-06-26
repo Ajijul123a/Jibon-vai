@@ -19,5 +19,5 @@
 
 * cd jibon
 
-*python2 jibonvai.py
+*python2 Jibonvai.py
 
