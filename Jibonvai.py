@@ -56,7 +56,7 @@ logo = """
 \033[1;96mAuthor  \033[1;93m: \033[1;92m Ajijul Hasan Jibon
 \033[1;96mInstagram \033[1;93m: \033[1: Ajijul Hasan Jibon
 \033[1;96mFacebook  \033[1;93m: \033[1: AjijulHasanJibonOfficial1
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://https://github.com/Ajijul123a/Jibon-vai.git
+\033[1;96mSpamming Team\033[1;93m: \033[1;92mCYBER GANG
 \033[1;91m======================================="""
 
 def tik():
