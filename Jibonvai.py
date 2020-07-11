@@ -75,7 +75,7 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print "\033[1;96m ============================================================="
+print "\033[1;96m "
 print  """\033[1;91m
 J̶I̶b̶o̶n̶
                         JIBON
@@ -89,14 +89,14 @@ J̶I̶b̶o̶n̶
                      ▇▇▇▇◣▇◢▇▇▇▇
                    WhatsApp : +8801881514428
 \033[1;96mAuthor  \033[1;93m: \033[1;92m Jibon Vai
-\033[1;96mInstagram \033[1;93m: \033[1;92Ajijul Hasan Jibon
+\033[1;96mInstagram \033[1;93m: \033[1;92 Ajijul Hasan Jibon
 \033[1;96mFacebook  \033[1;93m: \033[1;92m AjijulHasanJibonOfficial1
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://https://github.com/Ajijul123a/Jibon-vai.git
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "Jibon"
-CorrectPassword = "Vai"
+CorrectPassword = "Ponir"
 
 loop = 'true'
 while (loop == 'true'):
@@ -108,10 +108,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ?sub_confirmation=1 ')
+            os.system('xdg-open https://www.facebook.com/groups/1658262827761962/?ref=share ')
     else:
         print "Wrong Username"
-        os.system('xdg-open  https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ?sub_confirmation=1 ')
+        os.system('xdg-open  https://www.facebook.com/AjijulHasanJibonOfficial1 ')
 
 def login():
 	os.system('clear')
@@ -200,7 +200,7 @@ def menu():
 	print "\033[1;96m[\033[1;97m✓\033[1;96m]\033[1;93m Name \033[1;91m: \033[1;92m"+nama+"\033[1;97m               "
 	print "\033[1;96m[\033[1;97m✓\033[1;96m]\033[1;93m ID   \033[1;91m: \033[1;92m"+id+"\x1b[1;97m              "
 	print 42*"\033[1;96m="
-	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Start Hacking"
+	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Start Hacking With Jibon"
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Exit            "
 	pilih()
 
@@ -290,7 +290,7 @@ def pilih_super():
 		print "\033[1;96m[!] \x1b[1;91mFill in correctly"
 		pilih_super()
 	
-	print "\033[1;96m[+] \033[1;93mTotal IDs \033[1;91m: \033[1;97m"+str(len(id))
+	print "\033[1;96m[+] \033[1;93mTotal-IDs \033[1;91m: \033[1;97m"+str(len(id))
 	jalan('\033[1;96m[✺] \033[1;93mStarting \033[1;97m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
@@ -417,7 +417,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print 42*"\033[1;96m="
-	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed Komail says Thank You♥️ \033[1;97m....'
+	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed Jibon says Thank You♥️ \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print("\033[1;96m[+] \033[1;92mTHANKS FOR USING MY COMMANDS ! WE WILL BE RIGHT BACK \033[1;91m: \033[1;97mout/checkpoint.txt")
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
